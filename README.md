@@ -20,6 +20,4 @@ URL: https://www.heise.de/rss/heise-atom.xml
 
 Name: Tagesschau
 URL: https://www.tagesschau.de/xml/rss2
-
-Name: Spiegel Online
-URL: https://www.spiegel.de/schlagzeilen/tops/index.rss
+```
