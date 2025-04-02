@@ -10,16 +10,6 @@ Ein schlanker RSS-Reader für iOS, geschrieben in **SwiftUI**, mit Unterstützun
 
 ---
 
-## 🧱 Architektur
-
-- `FeedViewModel`: Zentrale Logik zum Laden, Verwalten und Speichern der Feeds & Lesestatus
-- `FeedItem`: Model für einzelne Artikel
-- `FeedSource`: Benannte Feed-URL mit `Codable`-Support
-- `AddFeedView`: Modal-Formular zum Hinzufügen neuer RSS-Quellen
-- `ContentView`: Hauptansicht mit Tab-Auswahl, Artikelübersicht und eingebettetem Browser
-
----
-
 ## 🧪 Beispiel-Feeds
 
 Ein paar deutsche Feeds zum Ausprobieren:
